@@ -1,14 +1,10 @@
 ![Banner](./assets/banner.jpg)
 
-### 🤝🏻 &nbsp;Navigation
-**[Click me](Navigation.md)**
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Roman</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Blockchain and Cloud Architecture.
 
 ### 🛠 &nbsp;Tech Stack  
 
@@ -60,23 +56,21 @@ Secondary:
 
 <p align="center">
 <a href="https://github.com/s-rb">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s-rb&hide=html,css&layout=compact&langs_count=10&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s-rb&hide=css,c%23&layout=compact&langs_count=10&theme=algolia&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 </a>
 </p>
 
-<!--
+### 🤝🏻 &nbsp;Old projects navigation
+**[Click me](Navigation.md)**
+
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
 
 <a href="https://github.com/s-rb">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/s-rb">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=s-rb&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=s-rb&hide=issues,prs,contribs,stars&show=repos&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Roman's GitHub Stats" />
 </a>
 
 <br>
 <br>
--->
