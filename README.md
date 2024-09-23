@@ -1,4 +1,4 @@
-![Banner](./assets/banner.jpg)
+<div style="background-color: #0d1117; color: white; padding: 20px; border-radius: 10px;">
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Roman</h2>
 
@@ -78,5 +78,32 @@ Secondary:
 </a>
 </p>
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+    <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://surkoff.com">
+            <img src="https://img.icons8.com/?size=50&id=qtCMtMWQphXg&format=png&color=f0f6fc"/>
+        </a>
+        <a style="margin-left: 10px;"  target="_blank" href="mailto:surkoff.com@gmail.com">
+            <img src="https://img.icons8.com/?size=50&id=UwNwzKjuqt0T&format=png&color=f0f6fc"/>
+        </a>
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/roman-surkoff/">
+            <img src="https://img.icons8.com/?size=50&id=NPKKGC83ppg7&format=png&color=f0f6fc"/>
+        </a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/s-rb">
+            <img src="https://img.icons8.com/?size=50&id=80462&format=png&color=f0f6fc"/>
+        </a>
+        <a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/surkoff/">
+            <img src="https://img.icons8.com/?size=50&id=S22n5FcHWTiO&format=png&color=f0f6fc"/>
+        </a>
+        <a style="margin-left: 10px;" target="_blank" href="./cv/Roman_Surkov_Cv.pdf">
+            <img src="https://img.icons8.com/?size=50&id=wuXCDaLZ8FC4&format=png&color=f0f6fc"/>
+        </a>
+    </div>
+</p>
+
 ### 🤝🏻 &nbsp;Old projects navigation
 **[Click me](Navigation.md)**
+
+</div>
