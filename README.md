@@ -1,16 +1,35 @@
 <div style="background-color: #0d1117; color: white; padding: 20px; border-radius: 10px;">
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Roman</h2>
+<h1 align="center">
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40'/>Hey there, I'm  <a href="https://surkoff.com" target="blank">Roman</a>
+</h1>
+
+<h3 align="center">An experienced software developer, who likes to explore new technologies, develop software solutions and quick hacks</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
+[//]: # (💡&nbsp;An experienced software developer, who likes to explore new technologies, develop software solutions and quick hacks)
+- 🌱 I’m currently Working on Fintech Backends
+- 🤝 I’m available for hire/freelancing.
+- 📝 I regularly write articles
+- 💬 Ask me about **Java & Spring**
+
+### Connect
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=s-rb)](https://visitor-badge.laobi.icu/badge?page_id=s-rb)
+[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:surkoff.com@gmail.com)](mailto:surkoff.com@gmail.com)
+[![](https://img.shields.io/github/stars/s-rb?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=s-rb&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+[![](https://img.shields.io/github/followers/s-rb?color=27da6b&logo=Handshake)](https://github.com/s-rb?tab=followers)
+
+
 
 ### 🛠 &nbsp;Tech Stack  
 
-<a href="https://surkoff.com">
-    <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
-</a>
+[//]: # (<a href="https://surkoff.com">)
+
+[//]: # (    <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>)
+
+[//]: # (</a>)
 
 Primary:
 
@@ -78,6 +97,8 @@ Secondary:
 </a>
 </p>
 
+[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-rb&hide=prs,issues,contribs&show_icons=true&theme=radical&hide_rank=true&)](https://github.com/s-rb)
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
 </p>
@@ -107,7 +128,17 @@ Secondary:
     </div>
 </p>
 
+<p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+</a>
+</p>
+
 ### 🤝🏻 &nbsp;Old projects navigation
 **[Click me](Navigation.md)**
+
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/surkoff"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+
 
 </div>
