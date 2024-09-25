@@ -93,11 +93,11 @@ Secondary:
 
 <p align="center">
 <a href="https://surkoff.com">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s-rb&hide=css,c%23&layout=compact&langs_count=10&theme=algolia&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb&size_weight=0.6&hide=css,c%23,jupyter notebook,hlsl&layout=donut&langs_count=5&theme=algolia"/>
 </a>
 </p>
 
-[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-rb&hide=prs,issues,contribs&show_icons=true&theme=radical&hide_rank=true&)](https://github.com/s-rb)
+
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
