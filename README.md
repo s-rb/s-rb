@@ -128,17 +128,8 @@ Secondary:
     </div>
 </p>
 
-<p>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
-</a>
-</p>
-
 ### 🤝🏻 &nbsp;Old projects navigation
 **[Click me](Navigation.md)**
-
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/surkoff"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 
 </div>
