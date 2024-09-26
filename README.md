@@ -1,7 +1,9 @@
 <div style="background-color: #0d1117; color: white; padding: 20px; border-radius: 10px;">
 
 <h1 align="center">
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40'/>Hey there, I'm  <a href="https://surkoff.com" target="blank">Roman</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&color=F7F7F7&center=true&width=435&lines=%F0%9F%91%8B+Hey,+there!;Nice+to+meet+you!;I+am+Roman+Surkoff;Software+engineer;Please%2C+follow!" />
+  </a>
 </h1>
 
 <h3 align="center">An experienced software developer, who likes to explore new technologies, develop software solutions and quick hacks</h3>
