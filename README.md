@@ -7,14 +7,28 @@
 </h1>
 
 <h3 align="center">An experienced software developer, who likes to explore new technologies, develop software solutions and quick hacks</h3>
+<br>
+<h2 align="center">👨🏻‍💻 About Me</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
-
-[//]: # (💡&nbsp;An experienced software developer, who likes to explore new technologies, develop software solutions and quick hacks)
 - 🌱 I’m currently Working on Fintech Backends
 - 🤝 I’m available for hire/freelancing.
 - 📝 I regularly write articles
 - 💬 Ask me about **Java & Spring**
+<br>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/s-rb">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=s-rb&theme=react&border=61dafb&hide_border=true" alt="s-rb" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-rb&theme=react-dark&bg_color=20232a&hide_border=true&height=200" width="100%"/>
+</p>
+
 
 ### Connect
 
@@ -98,7 +112,6 @@ Secondary:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb&size_weight=0.6&hide=css,c%23,jupyter notebook,hlsl&layout=donut&langs_count=5&theme=algolia"/>
 </a>
 </p>
-
 
 
 <p align="center">
