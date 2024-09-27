@@ -6,9 +6,9 @@
   </a>
 </h1>
 
-<h3 align="center">An experienced software developer, who likes to explore new technologies, develop software solutions and quick hacks</h3>
-<br>
 <h2 align="center">👨🏻‍💻 About Me</h2>
+<h3 align="center">An experienced software developer, who likes to explore new technologies, develop software solutions and quick hacks</h3>
+
 
 - 🌱 I’m currently Working on Fintech Backends
 - 🤝 I’m available for hire/freelancing.
@@ -20,24 +20,13 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/s-rb">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=s-rb&theme=react&border=61dafb&hide_border=true" alt="s-rb" />
+      <img align="center" width=390 src="https://streak-stats.demolab.com/?user=s-rb&theme=react&border=61dafb&hide_border=true" alt="s-rb" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br>
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-rb&theme=react-dark&bg_color=20232a&hide_border=true&height=200" width="100%"/>
 </p>
-
-
-### Connect
-
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=s-rb)](https://visitor-badge.laobi.icu/badge?page_id=s-rb)
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:surkoff.com@gmail.com)](mailto:surkoff.com@gmail.com)
-[![](https://img.shields.io/github/stars/s-rb?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=s-rb&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![](https://img.shields.io/github/followers/s-rb?color=27da6b&logo=Handshake)](https://github.com/s-rb?tab=followers)
-
-
 
 ### 🛠 &nbsp;Tech Stack  
 
