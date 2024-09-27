@@ -139,7 +139,11 @@ Secondary:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other            1 hr 52 mins    ██████████████████▒░░░░░░   73.40 %
+Markdown         18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+YAML             10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+HTML             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Python           3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
