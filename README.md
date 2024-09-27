@@ -189,8 +189,4 @@ No activity tracked
     </div>
 </p>
 
-<a href="https://github.com/s-rb/s-rb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=s-rb&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="s-rb" />
-</a>
-
 </div>
