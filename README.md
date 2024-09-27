@@ -38,8 +38,9 @@
 
 <h2 align="center">🛠 Tech Stack</h2>
 
-Primary:
-
+<details>
+    <summary>Primary:</summary>
+    
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=OpenJDK&logoColor=FFA518)
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&logoColor=71b23c)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=SpringBoot&logoColor=71b23c)
@@ -66,6 +67,7 @@ Primary:
 ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle)
 ![Postman](https://img.shields.io/badge/-Postman-ff6d3e?style=flat)
 ![Talend](https://img.shields.io/badge/-Talend-ff6d3e?style=flat&logo=Talend&logoColor=05122A)
+</details>
 
 Secondary:
 
@@ -99,6 +101,27 @@ Secondary:
 ### 🤝🏻 &nbsp;Old projects navigation
 **[Click me](Navigation.md)**
 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
 <br><br>
 <br><br>
 <br><br>
@@ -118,31 +141,6 @@ JavaScript    0 secs          ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-```
-  # ♟︎ Chess.com Ratings Chart #
-  
-  Blitz Rating
- 1492.00  ┤
- 1485.56  ┤                                      ╭╮╭╮╭╮
- 1479.12  ┤                                   ╭╮╭╯╰╯╰╯╰╮   ╭╮
- 1472.69  ┤                      ╭╮  ╭╮       │╰╯      ╰╮╭─╯╰╮      ╭╮
- 1466.25  ┤                ╭╮╭╮╭╮│╰─╮││      ╭╯         ││   ╰╮    ╭╯╰─╮
- 1459.81  ┤               ╭╯╰╯╰╯╰╯  ╰╯╰╮ ╭╮  │          ╰╯    ╰╮   │   ╰╮ ╭╮╭╮
- 1453.38  ┤  ╭╮           │            ╰─╯╰╮╭╯                 ╰─╮╭╯    ╰╮│││╰╮
- 1446.94  ┼╮ ││          ╭╯                ╰╯                    ╰╯      ╰╯╰╯ │╭─╮
- 1440.50  ┤╰╮│╰╮ ╭╮  ╭─╮╭╯                                                    ╰╯ ╰╮
- 1434.06  ┤ ╰╯ ╰─╯╰╮╭╯ ╰╯                                                         ╰╮ ╭╮╭╮╭╮
- 1427.62  ┤        ╰╯                                                              ╰╮│╰╯╰╯╰╮
- 1421.19  ┤                                                                         ╰╯     ╰╮            ╭╮╭╮
- 1414.75  ┤                                                                                 ╰╮╭╮       ╭╮││││
- 1408.31  ┤                                                                                  ╰╯╰╮╭╮╭╮  │╰╯╰╯╰╮
- 1401.88  ┤                                                                                     ╰╯╰╯╰╮╭╯     ╰
- 1395.44  ┤                                                                                          ││
- 1389.00  ┤                                                                                          ╰╯
-
-Chart last updated - Fri Sep 27 10:01:42 EDT 2024  
-  ```
 
 <p align=center>
   <br/><br/><br/><br/><br/><br/><br/><br/>
