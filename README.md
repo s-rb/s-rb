@@ -100,6 +100,34 @@ Secondary:
 **[Click me](Navigation.md)**
 
 <br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript    1 hr 23 mins    █████████████████████████   99.64 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
+
+<!--END_SECTION:waka-->
+
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
 <p align=center>
   <br/><br/><br/><br/><br/><br/><br/><br/>
 
