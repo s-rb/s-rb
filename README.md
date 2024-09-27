@@ -33,7 +33,12 @@
     <a href="https://surkoff.com">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb&size_weight=0.6&hide=css,c%23,jupyter notebook,hlsl&layout=donut&langs_count=5&theme=algolia"/>
     </a>
-  </div>
+    </div>
+    <div align=center>
+        <a href="https://github.com/s-rb">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb&hide=c%2B%2B,c,matlab,assembly,css,c%23,jupyter notebook,hlsl&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Roman's GitHub Stats" />
+        </a>
+    </div>
 </p>
 
 <h2 align="center">🛠 Tech Stack</h2>
@@ -145,6 +150,20 @@ No activity tracked
   <div><img src="https://github-readme-activity-graph.vercel.app/graph?username=s-rb&theme=react-dark&bg_color=20232a&hide_border=true&height=200" width="100%"/></div>
 </p>
 
+**Programming Languages:**
+
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+
+
+**Tools and Services:**
+
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
+
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 
 <p align="center">
@@ -169,5 +188,13 @@ No activity tracked
         </a>
     </div>
 </p>
+
+<a href="https://github.com/s-rb/s-rb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=s-rb&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="s-rb" />
+</a>
+
+## 👨‍💻 This week, I spent my time on:
+
+[![Roman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=s-rb&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
