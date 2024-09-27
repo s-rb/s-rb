@@ -16,6 +16,10 @@
 - 💬 Ask me about **Java & Spring**
 <br>
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
+</p>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
   <div align=center>
@@ -23,18 +27,9 @@
       <img align="center" width=390 src="https://streak-stats.demolab.com/?user=s-rb&theme=react&border=61dafb&hide_border=true" alt="s-rb" />
     </a>
   </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-rb&theme=react-dark&bg_color=20232a&hide_border=true&height=200" width="100%"/>
 </p>
 
-### 🛠 &nbsp;Tech Stack  
-
-[//]: # (<a href="https://surkoff.com">)
-
-[//]: # (    <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>)
-
-[//]: # (</a>)
+<h2 align="center">🛠 Tech Stack</h2>
 
 Primary:
 
@@ -94,7 +89,7 @@ Secondary:
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)
 
-### ⚙️ &nbsp;GitHub Analytics
+<h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
 
 <p align="center">
 <a href="https://surkoff.com">
@@ -102,12 +97,17 @@ Secondary:
 </a>
 </p>
 
+### 🤝🏻 &nbsp;Old projects navigation
+**[Click me](Navigation.md)**
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
+<br><br>
+<p align=center>
+  <br/><br/><br/><br/><br/><br/><br/><br/>
+
+  <div><img src="https://github-readme-activity-graph.vercel.app/graph?username=s-rb&theme=react-dark&bg_color=20232a&hide_border=true&height=200" width="100%"/></div>
 </p>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 
 <p align="center">
     <div align="center"  class="icons-social" style="margin-left: 10px;">
@@ -131,9 +131,5 @@ Secondary:
         </a>
     </div>
 </p>
-
-### 🤝🏻 &nbsp;Old projects navigation
-**[Click me](Navigation.md)**
-
 
 </div>
