@@ -6,14 +6,17 @@
   </a>
 </h1>
 
-<h2 align="center">👨🏻‍💻 About Me</h2>
-<h3 align="center">An experienced software developer, who likes to explore new technologies, develop software solutions and quick hacks</h3>
-
-
-- 🌱 I’m currently Working on Fintech Backends
-- 🤝 I’m available for hire/freelancing.
-- 📝 I regularly write articles
-- 💬 Ask me about **Java & Spring**
+<p align="center">
+    👨🏻‍💻 Hi! I am <b>Roman Surkoff</b>, an experienced software developer, who likes to explore new technologies, develop software solutions and quick hacks
+    <br>
+    🌱 I’m currently Working on Fintech Backends
+    <br>
+    🤝 I’m available for hire/freelancing.
+    <br>
+    📝 I regularly write articles
+    <br>
+    💬 Ask me about <b>Java & Spring</b>
+</p>
 <br>
 
 <p align="center">
@@ -25,6 +28,10 @@
   <div align=center>
     <a href="https://github.com/s-rb">
       <img align="center" width=390 src="https://streak-stats.demolab.com/?user=s-rb&theme=react&border=61dafb&hide_border=true" alt="s-rb" />
+    </a>
+    <br><br>
+    <a href="https://surkoff.com">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb&size_weight=0.6&hide=css,c%23,jupyter notebook,hlsl&layout=donut&langs_count=5&theme=algolia"/>
     </a>
   </div>
 </p>
@@ -88,14 +95,6 @@ Secondary:
 ![Bots](https://img.shields.io/badge/-Bots-05122A?style=flat&logo=probot)
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)
-
-<h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
-
-<p align="center">
-<a href="https://surkoff.com">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb&size_weight=0.6&hide=css,c%23,jupyter notebook,hlsl&layout=donut&langs_count=5&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Old projects navigation
 **[Click me](Navigation.md)**
