@@ -58,7 +58,7 @@
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> 
     <img src="./assets/icons/kibana/kibana-original.svg" alt="Kibana" width="40" height="40"/> </a>
 </div>
-
+<br/>
 <div align="center">
 <details>
 <summary>Secondary (click me!)</summary>
@@ -178,8 +178,6 @@
   <a href="./Navigation.md" title="Show Repositories">🤝🏻&nbsp;Old projects navigation</a>
 </h4>
 
----
-
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 
@@ -195,11 +193,10 @@ Python           3 mins          ▓░░░░░░░░░░░░░░�
 
 <br/>
 <p align=center>
-  <div><img src="https://github-readme-activity-graph.vercel.app/graph?username=s-rb&theme=react-dark&bg_color=20232a&hide_border=true&height=200" width="100%"/></div>
+  <div align=center><img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=s-rb&theme=react-dark&bg_color=20232a&hide_border=true&height=300" width="75%"/></div>
 </p>
 
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
-
 <p align="center">
     <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://surkoff.com">
