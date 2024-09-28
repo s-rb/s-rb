@@ -55,14 +55,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb
     </div>
 </p>
 
-
--------
-<p><img src="https://github-readme-stats.vercel.app/api?username=s-rb
-&theme=react
-&hide_border=true
-&include_all_commits=true
-&count_private=true" alt="s-rb" /></p>
-
 ---
 
 <h2 align="center">🛠 Tech Stack</h2>
