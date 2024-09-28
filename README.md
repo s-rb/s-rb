@@ -21,31 +21,18 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
 </p>
+
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <p align=center>
-<div align=center>
-<a href="https://github.com/s-rb">
-<img align="center" 
-height="150em" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=s-rb
-&theme=react
-&hide_border=true" alt="s-rb" />
-</a>
-<a href="https://surkoff.com">
-<img 
-align="center" 
-height="150em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb
-&size_weight=0.9
-&hide=css,c%23,hlsl
-&layout=compact
-&langs_count=6
-&theme=react
-&include_all_commits=true
-&count_private=true
-&hide_border=true"/>
-</a>
-</div>
+    <div align=center>
+        <a href="https://github.com/s-rb">
+            <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-rb&theme=react&hide_border=true" alt="s-rb" />
+        </a>
+        <a href="https://surkoff.com">
+            <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb&size_weight=0.9&hide=css,c%23,hlsl&layout=compact&langs_count=6&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+        </a>
+    </div>
 </p>
 
 <h2 align="center">🛠 Tech Stack</h2>
@@ -170,43 +157,32 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb
 </details>
 </div>
 
----
 
-### 🤝🏻 &nbsp;Old projects navigation
-**[Click me](Navigation.md)**
+<h2 align="center">👨‍💻Highlighted repos 👨‍💻</h2>
 
----
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+<div align="center">
+    <a align="center" href="https://github.com/s-rb/keycloak-dockerized-ssl-nginx" title="Keycloak Docker Nginx SSL">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=keycloak-dockerized-ssl-nginx&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="center" href="https://github.com/s-rb/s-rb" title="Readme">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=s-rb&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
-<h4 align="center">
+<div align="center">
+    <a align="center" href="https://github.com/s-rb/blog-engine" title="Blog engine">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=blog-engine&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="center" href="https://github.com/s-rb/portfolio-front" title="Portfolio Web site">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=portfolio-front&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<h3 align="center">
   <a href="https://github.com/s-rb?tab=repositories" title="Show Repositories">🔎 Show all 🔍</a>
+</h3>
+<h4 align="center">
+  <a href="./Navigation.md" title="Show Repositories">🤝🏻&nbsp;Old projects navigation</a>
 </h4>
 
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+---
 
-
-📊 **this week i spent my time on:**
+📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
@@ -258,3 +234,9 @@ Python           3 mins          ▓░░░░░░░░░░░░░░�
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- Awesome githun profiles: 
+https://github.com/coderjojo/creative-profile-readme 
+https://dev.to/github/10-standout-github-profile-readmes-h2o
+https://github.com/MaxRohowsky/best-github-profile-readme
+https://github.com/logancyang/awesome-personal-websites
+https://zzetao.github.io/awesome-github-profile/ -->
