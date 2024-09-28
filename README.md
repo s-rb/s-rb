@@ -13,8 +13,6 @@
     <br>
     🤝 I’m available for hire/freelancing.
     <br>
-    📝 I regularly write articles
-    <br>
     💬 Ask me about <b>Java & Spring</b>
 </p>
 
