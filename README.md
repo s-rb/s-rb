@@ -1,8 +1,8 @@
 <div style="background-color: #0d1117; color: white; padding: 20px; border-radius: 10px;">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&color=F7F7F7&center=true&width=435&lines=%F0%9F%91%8B+Hey,+there!;Nice+to+meet+you!;I+am+Roman+Surkoff;Software+engineer;Please%2C+follow!" />
+  <a href="https://surkoff.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&color=F7F7F7&center=true&width=435&lines=%F0%9F%91%8B+Hey,+there!;Nice+to+meet+you!;I+am+Roman+Surkoff;Software+engineer;Please%2C+follow!" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
+<img src="https://github-profile-trophy.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -25,10 +25,10 @@
 <p align=center>
     <div align=center>
         <a href="https://github.com/s-rb">
-            <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-rb&theme=react&hide_border=true" alt="s-rb" />
+            <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-rb&theme=react&hide_border=true" alt="GitHub Streak" />
         </a>
         <a href="https://surkoff.com">
-            <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb&size_weight=0.9&hide=css,c%23,hlsl&layout=compact&langs_count=6&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+            <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb&size_weight=0.9&hide=css,c%23,hlsl&layout=compact&langs_count=6&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages"/>
         </a>
     </div>
 </p>
@@ -39,72 +39,72 @@
 
 <div align="center">
 <a href="https://github.com" target="_blank"> 
-    <img src="./assets/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
+    <img src="./assets/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a>
 <a href="https://www.spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
+    <img src="./assets/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+    <img src="./assets/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<img src="./assets/icons/sqldeveloper/sqldeveloper-original.svg" alt="sql" width="40" height="40"/>
+    <img src="./assets/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
+<img src="./assets/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQL Developer" width="40" height="40"/>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+    <img src="./assets/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <img src="./assets/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+    <img src="./assets/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
+    <img src="./assets/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/> </a>
+    <img src="./assets/icons/kibana/kibana-original.svg" alt="Kibana" width="40" height="40"/> </a>
 </div>
 
 <div align="center">
 <details>
 <summary>Secondary (click me!)</summary>
 <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/> </a>
+    <img src="./assets/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img style="background-color: white" src="./assets/icons/github/github-original.svg" alt="dbeaver" width="40" height="40"/> </a>
+    <img style="background-color: white" src="./assets/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
 <a href="https://gradle.org/" target="_blank" rel="noreferrer"> 
-    <img style="background-color: white" src="./assets/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/> </a> 
+    <img style="background-color: white" src="./assets/icons/gradle/gradle-original.svg" alt="Gradle" width="40" height="40"/> </a> 
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/> </a>  
+    <img src="./assets/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="40" height="40"/> </a>  
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>  
-<img src="./assets/icons/json/json-original.svg" alt="json" width="40" height="40"/>    
-<img src="./assets/icons/yaml/yaml-original.svg" alt="yaml" width="40" height="40"/>   
+    <img src="./assets/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/> </a>  
+<img src="./assets/icons/json/json-original.svg" alt="JSON" width="40" height="40"/>    
+<img src="./assets/icons/yaml/yaml-original.svg" alt="YAML" width="40" height="40"/>   
 <a href="https://junit.org" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/> </a>  
+    <img src="./assets/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/> </a>  
 <a href="https://liquibase.com" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/liquibase/liquibase-original.svg" alt="liquibase" width="40" height="40"/> </a>  
+    <img src="./assets/icons/liquibase/liquibase-original.svg" alt="Liquibase" width="40" height="40"/> </a>  
 <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/> </a> 
-<img style="background-color: white" src="./assets/icons/ssh/ssh-original.svg" alt="ssh" width="40" height="40"/>   
+    <img src="./assets/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/> </a> 
+<img style="background-color: white" src="./assets/icons/ssh/ssh-original.svg" alt="SSH" width="40" height="40"/>   
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-    <img style="background-color: white" src="./assets/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40"/> </a> 
+    <img style="background-color: white" src="./assets/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Apache Kafka" width="40" height="40"/> </a> 
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/> </a>
+    <img src="./assets/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40"/> </a>
 </details>
 </div>
 <div align="center">
 <details>
 <summary>Other tools and languages (click me!)</summary>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <img src="./assets/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<img src="./assets/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <img src="./assets/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+<img src="./assets/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitMQ" width="40" height="40"/> </a>
+    <img src="./assets/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/> </a>
+    <img src="./assets/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/> </a>
 <a href="https://react.dev" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>  
+    <img src="./assets/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>  
-<img src="./assets/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-<img src="./assets/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+    <img src="./assets/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>  
+<img src="./assets/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="./assets/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 <img src="./assets/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> 
     <img src="./assets/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a> 
@@ -127,7 +127,7 @@
     <img src="./assets/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" height="40"/> </a>
 <a href="https://angular.dev" target="_blank" rel="noreferrer"> 
     <img src="./assets/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a>  
-<img src="./assets/icons/thealgorithms/thealgorithms-original.svg" alt="ssh" width="40" height="40"/>    
+<img src="./assets/icons/thealgorithms/thealgorithms-original.svg" alt="algorithms" width="40" height="40"/>    
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
     <img src="./assets/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -139,9 +139,9 @@
 <a href="https://bitbucket.org" target="_blank" rel="noreferrer"> 
     <img src="./assets/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> 
-    <img src="./assets/icons/confluence/confluence-original-wordmark.svg" alt="bitbucket" width="40" height="40"/> </a>
+    <img src="./assets/icons/confluence/confluence-original-wordmark.svg" alt="confluence" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img style="background-color: white" src="./assets/icons/githubactions/githubactions-original.svg" alt="dbeaver" width="40" height="40"/> </a> 
+    <img style="background-color: white" src="./assets/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="./assets/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://obsidian.md/" target="_blank"> 
