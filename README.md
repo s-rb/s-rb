@@ -20,8 +20,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
 </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+---
 
+<h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
     <div align=center>
         <a href="https://github.com/s-rb">
@@ -33,10 +34,10 @@
     </div>
 </p>
 
+---
+
 <h2 align="center">🛠 Tech Stack</h2>
-
 <h3 align="center">Primary: </h3>
-
 <div align="center">
 <a href="https://github.com" target="_blank"> 
     <img src="./assets/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a>
@@ -155,9 +156,9 @@
 </details>
 </div>
 
+---
 
 <h2 align="center">👨‍💻Highlighted repos 👨‍💻</h2>
-
 <div align="center">
     <a align="center" href="https://github.com/s-rb/keycloak-dockerized-ssl-nginx" title="Keycloak Docker Nginx SSL">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=keycloak-dockerized-ssl-nginx&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -193,7 +194,7 @@ Python           3 mins          ▓░░░░░░░░░░░░░░�
 
 <br/>
 <p align=center>
-  <div align=center><img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=s-rb&theme=react-dark&bg_color=20232a&hide_border=true&height=300" width="75%"/></div>
+  <div align=center><img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=s-rb&theme=react-dark&bg_color=20232a&hide_border=true&height=300" width="100%"/></div>
 </p>
 
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
