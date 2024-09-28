@@ -6,8 +6,6 @@
   </a>
 </h1>
 
----
-
 <p align="center">
     👨🏻‍💻 Hi! I am <b>Roman Surkoff</b>, an experienced <b>software developer</b>, who likes to explore new technologies, develop software solutions and quick hacks
     <br>
@@ -20,27 +18,21 @@
     💬 Ask me about <b>Java & Spring</b>
 </p>
 
----
-
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
+<img src="https://github-profile-trophy.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
 </p>
-
----
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
-  <div align=center>
-    <a href="https://github.com/s-rb">
-        <img align="center" 
+<div align=center>
+<a href="https://github.com/s-rb">
+<img align="center" 
 height="150em" 
 src="https://github-readme-streak-stats.herokuapp.com/?user=s-rb
 &theme=react
 &hide_border=true" alt="s-rb" />
-    </a>
-
+</a>
 <a href="https://surkoff.com">
-      <img 
+<img 
 align="center" 
 height="150em" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb
@@ -52,11 +44,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb
 &include_all_commits=true
 &count_private=true
 &hide_border=true"/>
-    </a>
-    </div>
+</a>
+</div>
 </p>
-
----
 
 <h2 align="center">🛠 Tech Stack</h2>
 
@@ -258,45 +248,6 @@ Python           3 mins          ▓░░░░░░░░░░░░░░�
         </a>
     </div>
 </p>
-
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-<div align="center"> <b>My Latest Medium Posts</b> </div>
-
-<!-- blog starts -->
-• [How to Make HTTP Requests in a Tauri Desktop App Using JavaScript Fetch](https://levelup.gitconnected.com/how-to-make-http-requests-in-a-tauri-desktop-app-using-javascript-fetch-0820dc39271b?source=rss-4430950b9342------2)</br>
-• [How to Navigate Your Software Development Career](https://levelup.gitconnected.com/how-to-navigate-your-software-development-career-b2f05f398672?source=rss-4430950b9342------2)</br>
-• [Efficient Way to Develop Your ReactJS Project Using Scaffdog](https://levelup.gitconnected.com/efficient-way-to-develop-your-reactjs-project-using-scaffdog-8d7ecddfbd29?source=rss-4430950b9342------2)</br>
-• [A Time-Saving Guide to Creating a React.js Project from Scratch](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2)</br>
-• [How To Deploy a React Application to GitHub Pages](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-github-pages-e4f8890e1213?source=rss-4430950b9342------2)</br>
-<!-- blog ends -->
-
-
-
-</td>
-
-
-<td width="35%" valign="top">
-
-<div align="center"> <b>Helpful Repos</b> </div>
-
-<div align="left">
-
-• [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)</br>
-• [Twitter-Tweet-Bot](https://github.com/lifeparticle/twitter-tweet-bot)</br>
-• [Tauri-Examples](https://github.com/lifeparticle/tauri-examples)</br>
-• [Gist-Count](https://github.com/lifeparticle/Gist-Count)</br>
-• [MySQL-Snippets](https://github.com/lifeparticle/MySQL-Snippets)
-
-</div>
-
-</td>
-</tr>
-
-</table>
 
 </div>
 
