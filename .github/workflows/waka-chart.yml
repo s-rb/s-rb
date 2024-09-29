@@ -15,19 +15,20 @@ jobs:
   waka-chart:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
+      - name: Checkout code
+        uses: actions/checkout@v2
         with:
           token: ${{ secrets.GH_TOKEN_1 }}
-        name: Setup Python
       - uses: actions/setup-python@v2
+        name: Setup Python
         with:
           python-version: 3.7
-        name: Install dependencies
       - run: pip install -r requirements.txt
-        name: Create Chart
+        name: Install dependencies
       - run: |
           python scripts/waka.py
           echo "write waka chart to README"
+        name: Create Chart
       - run: |
           currentDate=`env TZ=America/New_York date`
           printf "\nChart last updated - ${currentDate}"
