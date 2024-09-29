@@ -1,0 +1,52 @@
+# please create a new token github.com/settings/tokens/new .
+# give repo read write and workflow permissions to the token and store its value
+# add the token as a repo secret with key GH_TOKEN_1 and value equal to token value stored above
+
+name: Update Readme ascii graph and workflow with random cron interval
+on:
+  push:
+    branches: master
+    paths-ignore:
+      - README.md
+      - .github/workflows/waka-chart.yml
+  schedule:
+    - cron: "0 */8 * * *"
+jobs:
+  waka-chart:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+        with:
+          token: ${{ secrets.GH_TOKEN_1 }}
+        name: Setup Python
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+        name: Install dependencies
+      - run: pip install -r requirements.txt
+        name: Create Chart
+      - run: |
+          python scripts/waka.py
+          echo "write waka chart to README"
+      - run: |
+          currentDate=`env TZ=America/New_York date`
+          printf "\nChart last updated - ${currentDate}"
+      - run: |
+          python scripts/generate_random_workflow.py > waka-yaml.txt
+          YAML=$(cat waka-yaml.txt)
+          echo "::set-output name=yaml::$YAML"
+        name: Update workflow yaml file
+      - run: cat waka-yaml.txt > .github/workflows/waka-chart.yml
+      - id: changed
+        run: git diff --exit-code
+        continue-on-error: true
+        name: Commit changes
+      - if: ${{ steps.changed.outcome == 'failure' }}
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: Roman Surkoff
+          author_email: s.rb@list.ru
+          message: "Auto updated README with Waka chart and workflow timing"
+          add: "README.md .github/workflows/waka-chart.yml"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
