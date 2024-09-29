@@ -59,7 +59,7 @@ def get_wakatime_stats():
         return None
 
 def update_readme(new_content):
-    readme_path = '../README.md'
+    readme_path = 'README.md'
 
     # Читаем содержимое README.md
     with open(readme_path, 'r', encoding='utf-8') as file:
