@@ -2,12 +2,12 @@
 
 <h1 align="center">
   <a href="https://surkoff.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&color=F7F7F7&center=true&width=435&lines=%F0%9F%91%8B+Hey,+there!;Nice+to+meet+you!;I+am+Roman+Surkoff;Software+engineer;Please%2C+follow!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&color=F7F7F7&center=true&width=435&lines=%F0%9F%91%8B+Hey,+there!;I+am+Roman+Surkoff;Software+engineer;Please%2C+follow!" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-    👨🏻‍💻 Hi! I am <b>Roman Surkoff</b>, an experienced <b>software developer</b>, who likes to explore new technologies, develop software solutions and quick hacks
+    👨🏻‍💻 Hi! I am <b>Roman Surkoff</b>, an experienced <b>software engineer</b>, who likes to explore new technologies, develop software solutions and quick hacks
     <br>
     🌱 I’m currently Working on Fintech Backends
     <br>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
 </p>
 
 
@@ -34,7 +34,7 @@
     </div>
 </p>
 
----
+<br/>
 
 <h2 align="center">🛠 Tech Stack</h2>
 <h3 align="center">Primary: </h3>
@@ -160,7 +160,7 @@
 </details>
 </div>
 
----
+<br/>
 
 <h2 align="center">👨‍💻Highlighted repos 👨‍💻</h2>
 <div align="center">
