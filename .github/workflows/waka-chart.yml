@@ -29,6 +29,8 @@ jobs:
           python scripts/waka.py
           echo "write waka chart to README"
         name: Create Chart
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
       - run: |
           currentDate=`env TZ=America/New_York date`
           printf "\nChart last updated - ${currentDate}"
