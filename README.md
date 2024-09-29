@@ -20,7 +20,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
 </p>
 
----
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
@@ -187,11 +187,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         3 hrs 42 mins   ████████████▓░░░░░░░░░░░░   50.83 %
-Other            3 hrs 3 mins    ██████████▒░░░░░░░░░░░░░░   41.80 %
-YAML             10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Image (svg)      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-HTML             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Other            1 hr 52 mins    ██████████████████▒░░░░░░   73.40 %
+Markdown         18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+YAML             10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+HTML             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Python           3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
