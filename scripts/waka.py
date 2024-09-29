@@ -5,7 +5,7 @@ import re
 import os
 
 # Параметры API
-API_KEY = os.environ['WAKATIME_API_KEY']
+API_KEY = os.environ['WAKATIME_KEY']
 USER = 'surkoff'
 RANGE_7_DAYS = 'last_7_days'
 WAKA_STATS_URL = f'https://wakatime.com/api/v1/users/{USER}/stats/{RANGE_7_DAYS}'

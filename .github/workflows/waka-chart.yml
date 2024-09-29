@@ -19,31 +19,39 @@ jobs:
         uses: actions/checkout@v2
         with:
           token: ${{ secrets.GH_TOKEN_1 }}
+
       - uses: actions/setup-python@v2
         name: Setup Python
         with:
           python-version: 3.7
+
       - run: pip install -r requirements.txt
         name: Install dependencies
-      - run: |
+
+      - name: Create Chart
+        run: |-
           python scripts/waka.py
           echo "write waka chart to README"
-        name: Create Chart
         env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      - run: |
+            WAKATIME_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+      - run: |-
           currentDate=`env TZ=America/New_York date`
           printf "\nChart last updated - ${currentDate}"
-      - run: |
+
+      - run: |-
           python scripts/generate_random_workflow.py > waka-yaml.txt
           YAML=$(cat waka-yaml.txt)
           echo "::set-output name=yaml::$YAML"
         name: Update workflow yaml file
+
       - run: cat waka-yaml.txt > .github/workflows/waka-chart.yml
+
       - id: changed
         run: git diff --exit-code
         continue-on-error: true
         name: Commit changes
+
       - if: ${{ steps.changed.outcome == 'failure' }}
         uses: EndBug/add-and-commit@v4
         with:
@@ -52,4 +60,4 @@ jobs:
           message: "Auto updated README with Waka chart and workflow timing"
           add: "README.md .github/workflows/waka-chart.yml"
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
+            GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
