@@ -63,6 +63,7 @@
 <div align="center">
 <details>
 <summary>Secondary (click me!)</summary>
+<div style="background-color: white; color: white; padding: 5px; border-radius: 2px;">
 <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> 
     <img src="./assets/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> 
@@ -86,11 +87,13 @@
     <img style="background-color: white" src="./assets/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Apache Kafka" width="40" height="40"/> </a> 
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
     <img src="./assets/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40"/> </a>
+</div>
 </details>
 </div>
 <div align="center">
 <details>
 <summary>Other tools and languages (click me!)</summary>
+<div style="background-color: white; color: white; padding: 5px; border-radius: 2px;">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="./assets/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -153,6 +156,7 @@
     <img src="./assets/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
     <img src="./assets/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> </a>
+</div>
 </details>
 </div>
 
@@ -161,16 +165,16 @@
 <h2 align="center">👨‍💻Highlighted repos 👨‍💻</h2>
 <div align="center">
     <a align="center" href="https://github.com/s-rb/keycloak-dockerized-ssl-nginx" title="Keycloak Docker Nginx SSL">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=keycloak-dockerized-ssl-nginx&theme=react&border_color=61dafb&border_radius=10"></a>
+    <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=keycloak-dockerized-ssl-nginx&theme=react&border_color=61dafb&border_radius=10"></a>
     <a align="center" href="https://github.com/s-rb/s-rb" title="Readme">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=s-rb&theme=react&border_color=61dafb&border_radius=10"></a>
+    <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=s-rb&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <div align="center">
     <a align="center" href="https://github.com/s-rb/blog-engine" title="Blog engine">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=blog-engine&theme=react&border_color=61dafb&border_radius=10"></a>
+    <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=blog-engine&theme=react&border_color=61dafb&border_radius=10"></a>
     <a align="center" href="https://github.com/s-rb/portfolio-front" title="Portfolio Web site">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=portfolio-front&theme=react&border_color=61dafb&border_radius=10"></a>
+    <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=portfolio-front&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <h3 align="center">
   <a href="https://github.com/s-rb?tab=repositories" title="Show Repositories">🔎 Show all 🔍</a>
