@@ -10,7 +10,7 @@ on:
       - README.md
       - .github/workflows/waka-chart.yml
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 */5 * * *"
 jobs:
   waka-chart:
     runs-on: ubuntu-latest
@@ -60,4 +60,4 @@ jobs:
           message: "Auto updated README with Waka chart and workflow timing"
           add: "README.md .github/workflows/waka-chart.yml"
         env:
-            GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
+            GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }
