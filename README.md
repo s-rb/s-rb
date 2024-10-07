@@ -1,5 +1,11 @@
 <div style="background-color: #0d1117; color: white; padding: 20px; border-radius: 10px;">
 
+<div align="right">
+    <a href="https://user-badge.committers.top/kazakhstan/s-rb">
+        <img src="https://user-badge.committers.top/kazakhstan/s-rb.svg" alt="Commiters rank"/>
+    </a>
+</div>
+
 <h1 align="center">
   <a href="https://surkoff.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&color=F7F7F7&center=true&width=435&lines=%F0%9F%91%8B+Hey,+there!;I+am+Roman+Surkoff;Software+engineer;Please%2C+follow!" alt="Typing SVG" />
@@ -185,6 +191,7 @@
 
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
+
 ```text
 Markdown        3 hrs 42 mins   ████████████████░░░░░░░░░░░░░░    51.00 %
 Other           3 hrs 3 mins    █████████████░░░░░░░░░░░░░░░░░    42.00 %
@@ -193,6 +200,7 @@ Image (svg)     9 mins          █░░░░░░░░░░░░░░░
 HTML            4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     1.00 %
 Python          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     1.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br/>
