@@ -1,4 +1,4 @@
-<div style="background-color: #0d1117; color: white; padding: 20px; border-radius: 10px;">
+<div style="background-color: #212830; color: white; padding: 20px; border-radius: 10px;">
 
 <div align="right">
     <a href="https://user-badge.committers.top/kazakhstan/s-rb">
@@ -227,7 +227,7 @@ Ruby            7 mins          █░░░░░░░░░░░░░░░
         <a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/surkoff/">
             <img src="https://img.icons8.com/?size=50&id=S22n5FcHWTiO&format=png&color=f0f6fc"/>
         </a>
-        <a style="margin-left: 10px;" target="_blank" href="./cv/Roman_Surkov_Cv.pdf">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/s-rb/site/blob/master/assets/files/cv.pdf">
             <img src="https://img.icons8.com/?size=50&id=wuXCDaLZ8FC4&format=png&color=f0f6fc"/>
         </a>
     </div>
@@ -247,4 +247,6 @@ https://github.com/coderjojo/creative-profile-readme
 https://dev.to/github/10-standout-github-profile-readmes-h2o
 https://github.com/MaxRohowsky/best-github-profile-readme
 https://github.com/logancyang/awesome-personal-websites
-https://zzetao.github.io/awesome-github-profile/ -->
+https://zzetao.github.io/awesome-github-profile/
+https://github.com/pages-cms/pages-cms
+portfolios - https://github.com/yousinix -->
