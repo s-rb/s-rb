@@ -5,12 +5,20 @@
         <img src="https://user-badge.committers.top/kazakhstan/s-rb.svg" alt="Commiters rank"/>
     </a>
 </div>
+<div align="center">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA"> 
+    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="KOTLIN"> 
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="SPRING">
+    <img src="https://img.shields.io/badge/FINTECH-brightgreen?style=for-the-badge&logoColor=white" alt="FINTECH">
+</div>
+
 
 <h1 align="center">
   <a href="https://surkoff.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&color=F7F7F7&center=true&width=435&lines=%F0%9F%91%8B+Hey,+there!;I+am+Roman+Surkoff;Software+engineer;Please%2C+follow!" alt="Typing SVG" />
   </a>
 </h1>
+
 
 <p align="center">
     👨🏻‍💻 Hi! I am <b>Roman Surkoff</b>, an experienced <b>software engineer</b>, who likes to explore new technologies, develop software solutions and quick hacks
@@ -22,25 +30,12 @@
     💬 Ask me about <b>Java & Spring</b>
 </p>
 
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
 </p>
+<br>
 
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<p align=center>
-    <div align=center>
-        <a href="https://github.com/s-rb">
-            <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-rb&theme=react&hide_border=true" alt="GitHub Streak" />
-        </a>
-        <a href="https://surkoff.com">
-            <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb&size_weight=0.9&hide=css,c%23,hlsl&layout=compact&langs_count=6&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages"/>
-        </a>
-    </div>
-</p>
-
-<br/>
 
 <h2 align="center">🛠 Tech Stack</h2>
 <h3 align="center">Primary: </h3>
@@ -167,6 +162,26 @@
 </div>
 
 <br/>
+<p align=center>
+  <div align=center><img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=s-rb&theme=react-dark&bg_color=20232a&hide_border=true&height=300" width="100%"/></div>
+</p>
+
+
+<br/>
+
+📊 **This week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+Kotlin          20 hrs 53 mins  ██████████████░░░░░░░░░░░░░░░░    46.00 %
+Other           16 hrs 59 mins  ████████████░░░░░░░░░░░░░░░░░░    37.00 %
+Java            3 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░     8.00 %
+Groovy          1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     3.00 %
+JSON            49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     2.00 %
+Gradle          41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     2.00 %
+GitIgnore file  23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     1.00 %
+Text            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     1.00 %
+```
+<!--END_SECTION:waka-->
 
 <h2 align="center">👨‍💻Highlighted repos 👨‍💻</h2>
 <div align="center">
@@ -189,30 +204,28 @@
   <a href="./Navigation.md" title="Show Repositories">🤝🏻&nbsp;Old projects navigation</a>
 </h4>
 
-📊 **This week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-Kotlin          20 hrs 53 mins  ██████████████░░░░░░░░░░░░░░░░    46.00 %
-Other           16 hrs 59 mins  ████████████░░░░░░░░░░░░░░░░░░    37.00 %
-Java            3 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░     8.00 %
-Groovy          1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     3.00 %
-JSON            49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     2.00 %
-Gradle          41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     2.00 %
-GitIgnore file  23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     1.00 %
-Text            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     1.00 %
-```
-<!--END_SECTION:waka-->
+<h2 align="center">⚡ Stats ⚡</h2>
+<p align=center>
+    <div align=center>
+        <a href="https://github.com/s-rb">
+            <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-rb&theme=react&hide_border=true" alt="GitHub Streak" />
+        </a>
+        <a href="https://surkoff.com">
+            <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb&size_weight=0.9&hide=css,c%23,hlsl&layout=compact&langs_count=6&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages"/>
+        </a>
+    </div>
+</p>
 
 <br/>
-<p align=center>
-  <div align=center><img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=s-rb&theme=react-dark&bg_color=20232a&hide_border=true&height=300" width="100%"/></div>
-</p>
 
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 <p align="center">
     <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://surkoff.com">
             <img src="https://img.icons8.com/?size=50&id=qtCMtMWQphXg&format=png&color=f0f6fc"/>
+        </a>
+        <a style="margin-left: 10px;"  target="_blank" href="https://surkoff.su">
+            <img src="https://img.icons8.com/?size=50&id=EyyLPKJ46kGK&format=png&color=f0f6fc"/>
         </a>
         <a style="margin-left: 10px;"  target="_blank" href="mailto:surkoff.com@gmail.com">
             <img src="https://img.icons8.com/?size=50&id=UwNwzKjuqt0T&format=png&color=f0f6fc"/>
@@ -233,6 +246,7 @@ Text            15 mins         █░░░░░░░░░░░░░░░
 </p>
 
 </div>
+
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
