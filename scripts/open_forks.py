@@ -43,7 +43,12 @@ def generate_open_md(forked_repos):
     )
 
     for i, repo in enumerate(forked_repos, start=1):
-        title = repo.get('description', '').replace('"', "'") or repo['html_url'].split('/')[-1]
+        # Получаем описание или название репозитория
+        description = repo.get('description', '') or ''
+        description = description.replace('"', "'")  # Заменяем двойные кавычки на одинарные
+        title = description if description else repo['html_url'].split('/')[-1]
+
+        # Формируем блок для репозитория
         repo_md = (
             f'<a align="center" href="{repo["html_url"]}" title="{title}">\n'
             f'<img align="center" style="margin: 10px" '
