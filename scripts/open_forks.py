@@ -5,7 +5,7 @@ import re
 # Параметры
 USER = 's-rb'
 GH_TOKEN = os.environ['GITHUB_TOKEN']
-OUTPUT_FILE = '../OPEN.md'
+OUTPUT_FILE = 'OPEN.md'
 
 # Заголовки авторизации
 headers = {
