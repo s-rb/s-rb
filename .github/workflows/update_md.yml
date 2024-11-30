@@ -11,7 +11,7 @@ on:
       - .github/workflows/update_md.yml
       - OPEN.md
   schedule:
-    - cron: "0 */5 * * *"
+    - cron: "0 */4 * * *"
 
 jobs:
   update-readme:
