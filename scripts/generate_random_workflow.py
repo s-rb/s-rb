@@ -3,7 +3,7 @@ import random
 
 cron_line = '"0 */{prevNo} * * *"'
 
-with open(".github/workflows/waka-chart.yml", "r") as f:
+with open(".github/workflows/update_md.yml", "r") as f:
     wf = f.read()
 
 randNo = random.randint(1, 8)

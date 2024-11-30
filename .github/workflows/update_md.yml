@@ -8,12 +8,13 @@ on:
     branches: [ main ]
     paths-ignore:
       - README.md
-      - .github/workflows/waka-chart.yml
+      - .github/workflows/update_md.yml
+      - OPEN.md
   schedule:
     - cron: "0 */5 * * *"
 
 jobs:
-  waka-chart:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -29,41 +30,51 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Create Chart
+      - name: Update Waka Chart
         run: |
           python scripts/waka.py
           echo "write waka chart to README"
         env:
           WAKATIME_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
+      - name: Update Open Forks
+        run: |
+          python scripts/open_forks.py
+          echo "update open forks markdown"
+
       - name: Print current date
         run: |
           currentDate=$(date)
-          echo "Chart last updated - ${currentDate}"
+          echo "Chart and Open Forks last updated - ${currentDate}"
 
-      - name: Update workflow yaml file
-        id: update_yaml
-        run: |
-          echo "yaml<<EOF" >> $GITHUB_ENV
-          python scripts/generate_random_workflow.py >> $GITHUB_ENV
-          echo "EOF" >> $GITHUB_ENV
-
-      - name: Replace workflow yaml file
-        run: |
-          echo "$yaml" > .github/workflows/waka-chart.yml
-
-      - name: Commit changes
-        id: changed
-        run: git diff --exit-code
+      - name: Commit Waka Chart changes
+        id: waka_changed
+        run: git diff --exit-code README.md
         continue-on-error: true
 
-      - name: Commit and push changes
-        if: ${{ steps.changed.outcome == 'failure' }}
+      - name: Commit Open Forks changes
+        id: open_forks_changed
+        run: git diff --exit-code OPEN.md
+        continue-on-error: true
+
+      - name: Commit and push Waka Chart changes
+        if: ${{ steps.waka_changed.outcome == 'failure' }}
         uses: EndBug/add-and-commit@v4
         with:
           author_name: Roman Surkoff
           author_email: s.rb@list.ru
-          message: "Auto updated README with Waka chart and workflow timing"
-          add: "README.md .github/workflows/waka-chart.yml"
+          message: "Auto updated README with Waka chart"
+          add: "README.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
+
+      - name: Commit and push Open Forks changes
+        if: ${{ steps.open_forks_changed.outcome == 'failure' }}
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: Roman Surkoff
+          author_email: s.rb@list.ru
+          message: "Auto updated OPEN.md with open forks"
+          add: "OPEN.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}

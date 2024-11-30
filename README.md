@@ -256,7 +256,7 @@ Text            15 mins         █░░░░░░░░░░░░░░░
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-<!-- Awesome githun profiles: 
+<!-- Awesome github profiles: 
 https://github.com/coderjojo/creative-profile-readme 
 https://dev.to/github/10-standout-github-profile-readmes-h2o
 https://github.com/MaxRohowsky/best-github-profile-readme
