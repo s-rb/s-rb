@@ -4,6 +4,7 @@ import re
 
 # Параметры
 GITHUB_USERNAME = 's-rb'
+GH_TOKEN = os.environ['GITHUB_TOKEN']
 
 def get_forked_repositories(username, token):
     url = f"https://api.github.com/users/{username}/repos"
@@ -48,9 +49,8 @@ def update_open_md(forked_repos):
         file.write(open_md_content)
 
 def main():
-    token = os.environ['GH_TOKEN_1']
 
-    forked_repos = get_forked_repositories({GITHUB_USERNAME}, token)
+    forked_repos = get_forked_repositories(GITHUB_USERNAME, GH_TOKEN)
     if forked_repos:
         update_open_md(forked_repos)
     else:
