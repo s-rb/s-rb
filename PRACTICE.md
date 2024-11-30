@@ -6,5 +6,4 @@
     <a align="center" href="https://github.com/s-rb/WebService" title="Stepik WebService">
     <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=WebService&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
 </div>
