@@ -36,10 +36,9 @@ def update_open_md(forked_repos):
 
     for i, repo in enumerate(forked_repos):
         if i % 2 == 0 and i != 0:
-            open_md_content += "</div><div align=\"center\">\n"
-
-        open_md_content += f"""
-        <a align="center" href="{repo['html_url']}" title="{repo['description']}">
+            open_md_content += "</div>\n<div align=\"center\">\n"
+        title = repo.get('description', '').replace('"', "'") or repo['html_url'].split('/')[-1]
+        open_md_content += f"""<a align="center" href="{repo['html_url']}" title="{title}">
         <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username={GITHUB_USERNAME}&repo={repo['name']}&theme=react&border_color=61dafb&border_radius=10"></a>
         """
 
