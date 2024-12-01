@@ -167,38 +167,29 @@
 </p>
 
 
-<br/>
-
-📊 **This week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-Kotlin          18 hrs 2 mins   ████████████░░░░░░░░░░░░░░░░░░    40.00 %
-Other           16 hrs 10 mins  ███████████░░░░░░░░░░░░░░░░░░░    36.00 %
-Java            3 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░     8.00 %
-Markdown        1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░     4.00 %
-Groovy          1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     3.00 %
-Python          52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     2.00 %
-JSON            49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     2.00 %
-Gradle          42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     2.00 %
-YAML            29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     1.00 %
-GitIgnore file  23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     1.00 %
-Text            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     1.00 %
-```
-<!--END_SECTION:waka-->
-
 <h2 align="center">👨‍💻Highlighted repos 👨‍💻</h2>
+<div align="center">
+<a align="center" href="./MY_PUBLIC.md" title="My projects">
+    <img src="https://img.shields.io/badge/MY OPEN-61dafb?style=for-the-badge&logoColor=white" alt="OPEN">
+</a>
+<a align="center" href="./PRACTICE.md" title="Study and experiments repos">
+    <img src="https://img.shields.io/badge/PRACTICE-61dafb?style=for-the-badge&logoColor=white" alt="STUDY">
+</a>
+<a align="center" href="./OPEN.md" title="Forked repos">
+    <img src="https://img.shields.io/badge/FORKS-61dafb?style=for-the-badge&logoColor=white" alt="FORKS">
+</a>
+</div>
 <div align="center">
     <a align="center" href="https://github.com/s-rb/keycloak-dockerized-ssl-nginx" title="Keycloak Docker Nginx SSL">
     <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=keycloak-dockerized-ssl-nginx&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="center" href="https://github.com/s-rb/s-rb" title="Readme">
-    <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=s-rb&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<div align="center">
     <a align="center" href="https://github.com/s-rb/blog-engine" title="Blog engine">
     <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=blog-engine&theme=react&border_color=61dafb&border_radius=10"></a>
     <a align="center" href="https://github.com/s-rb/portfolio-front" title="Portfolio Web site">
     <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=portfolio-front&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="center" href="https://github.com/s-rb/site" title="Personal website">
+    <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=site&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="center" href="https://github.com/s-rb/s-rb" title="Readme">
+    <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=s-rb&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <h3 align="center">
   <a href="https://github.com/s-rb?tab=repositories" title="Show Repositories">🔎 Show all 🔍</a>
@@ -218,6 +209,24 @@ Text            15 mins         █░░░░░░░░░░░░░░░
         </a>
     </div>
 </p>
+
+📊 **This week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+Kotlin          18 hrs 2 mins   ████████████░░░░░░░░░░░░░░░░░░    40.00 %
+Other           16 hrs 10 mins  ███████████░░░░░░░░░░░░░░░░░░░    36.00 %
+Java            3 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░     8.00 %
+Markdown        1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░     4.00 %
+Groovy          1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     3.00 %
+Python          52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     2.00 %
+JSON            49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     2.00 %
+Gradle          42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     2.00 %
+YAML            29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     1.00 %
+GitIgnore file  23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     1.00 %
+Text            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     1.00 %
+```
+<!--END_SECTION:waka-->
+
 
 <br/>
 

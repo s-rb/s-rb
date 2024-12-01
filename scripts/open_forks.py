@@ -35,7 +35,7 @@ def fetch_forked_repositories():
 def generate_open_md(forked_repos):
     content = (
         '<div style="background-color: #212830; color: white; padding: 20px; border-radius: 10px;">\n'
-        '<h2 align="center">👨‍💻OPEN SOURCED FORKS 👨‍💻</h2>\n<div align="center">\n'
+        '<h2 align="center">👨‍💻&nbsp;OPEN SOURCED FORKS&nbsp;👨‍💻</h2>\n<div align="center">\n'
     )
 
     for i, repo in enumerate(forked_repos, start=1):
@@ -51,9 +51,6 @@ def generate_open_md(forked_repos):
             f'src="https://github-readme-stats.vercel.app/api/pin/?username={USER}&repo={repo["name"]}&theme=react&border_color=61dafb&border_radius=10"></a>\n'
         )
         content += repo_md
-
-        if i % 2 == 0:  # Закрытие строки после каждого второго элемента
-            content += '</div>\n<div align="center">\n'
 
     content += '</div>\n</div>'
     return content
