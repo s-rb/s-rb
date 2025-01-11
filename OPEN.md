@@ -295,6 +295,8 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=ubuntu-portfolio-site&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/udp-multicast-receiver" title="udp-multicast-receiver">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=udp-multicast-receiver&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/UniversalMediaServer" title="A DLNA, UPnP and HTTP(S) Media Server.">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=UniversalMediaServer&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/useful-java-links" title="A list of useful Java frameworks, libraries, software and hello worlds examples">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=useful-java-links&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/user-management-app" title="user-management-app">
