@@ -283,6 +283,8 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=system-design-primer&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/tangem-sdk-android" title="The native Kotlin library for Android and JVM platforms (Windows, Linux, macOS)">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=tangem-sdk-android&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/TarsosDSP" title="A Real-Time Audio Processing Framework in Java">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=TarsosDSP&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/testcontainers-spring-boot" title="Container auto-configurations for Spring Boot based integration tests">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=testcontainers-spring-boot&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/theAlgorithms-Java" title="All Algorithms implemented in Java">
