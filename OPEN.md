@@ -111,6 +111,8 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=github-readme-activity-graph&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/github-readme-stats" title=":zap: Dynamically generated stats for your github readmes">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=github-readme-stats&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/gogs" title="Gogs is a painless self-hosted Git service">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=gogs&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/gotenberg" title="A developer-friendly API for converting numerous document formats into PDF files, and more!">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=gotenberg&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/green-ai" title="🌱 The Green AI Standard aims to develop a standard and raise awareness for best environmental practices in AI research and development">
@@ -197,6 +199,8 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=logistic-webix&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/markdown-cv" title="a simple template to write your CV in a readable markdown file and use CSS to publish/print it.">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=markdown-cv&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/mastodon" title="Your self-hosted, globally interconnected microblogging community">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=mastodon&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/metrics" title="📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=metrics&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/midarr-server" title="🔥Midarr, the minimal lightweight media server.">
@@ -205,6 +209,8 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=ML_UsdRatePrediction&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/MobileDimensionTask" title="MobileDimensionTask">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=MobileDimensionTask&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/nocodb" title="🔥 🔥 🔥 Open Source Airtable Alternative">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=nocodb&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/open-proxy-parser" title="Parser for open proxies">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=open-proxy-parser&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/opencms-core" title="The Java open source content management system by Alkacon Software">
@@ -233,6 +239,8 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=prometheus&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/qr-barman" title="QR code scanner and generator">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=qr-barman&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/Rath" title="Next generation of automated data exploratory analysis and visualization platform.">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=Rath&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/react-costs-log-app" title="react-costs-log-app">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=react-costs-log-app&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/react-quiz-app" title="react-quiz-app">
