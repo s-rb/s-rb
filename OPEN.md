@@ -13,6 +13,8 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=api-library&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/auto" title="A collection of source code generators for Java.">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=auto&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/awesome-chatgpt-prompts" title="This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=awesome-chatgpt-prompts&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/awesome-healthcare" title="Curated list of awesome open source healthcare software, libraries, tools and resources.">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=awesome-healthcare&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/awesome-java-backend-interview-rus" title="Repository with java-backend interview questions and answers [RUS]">
