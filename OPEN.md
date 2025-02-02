@@ -119,6 +119,8 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=github-readme-stats&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/gogs" title="Gogs is a painless self-hosted Git service">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=gogs&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/goose" title="an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=goose&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/gotenberg" title="A developer-friendly API for converting numerous document formats into PDF files, and more!">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=gotenberg&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/green-ai" title="🌱 The Green AI Standard aims to develop a standard and raise awareness for best environmental practices in AI research and development">
