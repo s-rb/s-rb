@@ -123,6 +123,8 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=goose&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/gotenberg" title="A developer-friendly API for converting numerous document formats into PDF files, and more!">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=gotenberg&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/gradio" title="Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=gradio&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/green-ai" title="🌱 The Green AI Standard aims to develop a standard and raise awareness for best environmental practices in AI research and development">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=green-ai&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/grpc-java" title="The Java gRPC implementation. HTTP/2 based RPC">
