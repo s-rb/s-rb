@@ -185,6 +185,8 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=jj&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/jmix" title="Jmix framework">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=jmix&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/JobSpy" title="Jobs scraper library for LinkedIn, Indeed, Glassdoor, Google & ZipRecruiter">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=JobSpy&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/json-server" title="Get a full fake REST API with zero coding in less than 30 seconds (seriously)">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=json-server&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/kafka" title="Mirror of Apache Kafka">
