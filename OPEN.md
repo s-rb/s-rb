@@ -3,6 +3,8 @@
 <div align="center">
 <a align="center" href="https://github.com/s-rb/AFFiNE" title="There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=AFFiNE&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/aider" title="aider is AI pair programming in your terminal">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=aider&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/algorithms-kotlin" title="Algorithms and data structures implemented in Kotlin">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=algorithms-kotlin&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/algorithms-patterns-exercises" title="Algorithms, data structures, implementations of some patterns, leetcode & other exercises">
