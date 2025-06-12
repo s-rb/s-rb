@@ -41,6 +41,8 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=binance-toolbox-java&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/bitcoin-wallet" title="Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=bitcoin-wallet&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/BlackFriday-GPTs-Prompts" title="List of free GPTs that doesn't require plus subscription ">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=BlackFriday-GPTs-Prompts&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/blog-backend" title="Backend appliction for a blog">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=blog-backend&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/blog-engine" title="Java-based backend for a blog">
@@ -237,6 +239,8 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=MobileDimensionTask&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/nocodb" title="🔥 🔥 🔥 Open Source Airtable Alternative">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=nocodb&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/omni-tools" title="Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=omni-tools&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/OnnxStream" title="Lightweight inference library for ONNX files, written in C++. It can run Stable Diffusion XL 1.0 on a RPI Zero 2 (or in 298MB of RAM) but also Mistral 7B on desktops and servers. ARM, x86, WASM, RISC-V supported. Accelerated by XNNPACK.">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=OnnxStream&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/open-proxy-parser" title="Parser for open proxies">
