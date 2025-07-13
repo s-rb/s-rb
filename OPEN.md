@@ -19,6 +19,8 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=auto&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/awesome-chatgpt-prompts" title="This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=awesome-chatgpt-prompts&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/Awesome-Hacking" title="A collection of various awesome lists for hackers, pentesters and security researchers">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=Awesome-Hacking&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/awesome-healthcare" title="Curated list of awesome open source healthcare software, libraries, tools and resources.">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=awesome-healthcare&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/awesome-java-backend-interview-rus" title="Repository with java-backend interview questions and answers [RUS]">
@@ -55,6 +57,8 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=build-your-own-x&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/calculator" title="Just one more JavaFX calculator app (windows style)">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=calculator&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/cassandre-trading-bot" title="Create your Java crypto trading bot in minutes. Our Spring boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategies.">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=cassandre-trading-bot&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/cbioportal" title="cBioPortal for Cancer Genomics">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=cbioportal&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/cbioportal-frontend" title="React Frontend of cBioPortal :tada:">
