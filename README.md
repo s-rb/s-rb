@@ -1,4 +1,4 @@
-<div style="background-color: #212830; color: white; padding: 20px; border-radius: 10px;">
+<div style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
 
 <div align="right">
     <a href="https://user-badge.committers.top/kazakhstan/s-rb">
@@ -197,17 +197,17 @@
 <h4 align="center">
   <a href="./Navigation.md" title="Show Repositories">🤝🏻&nbsp;Old projects navigation</a>
 </h4>
-
+<br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
-    <div align=center>
-        <a href="https://github.com/s-rb">
-            <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-rb&theme=react&hide_border=true" alt="GitHub Streak" />
-        </a>
-        <a href="https://surkoff.com">
-            <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb&size_weight=0.9&hide=css,c%23,hlsl&layout=compact&langs_count=6&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages"/>
-        </a>
-    </div>
+<div align=center>
+<div>
+<a href="https://github.com/s-rb"><img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=s-rb&theme=react&hide_border=true" alt="GitHub Streak"/></a>
+</div>
+<div>
+<a href="https://surkoff.com"><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb&size_weight=0.9&hide=css,c%23,hlsl&layout=compact&langs_count=6&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages"/></a>
+</div>
+</div>
 </p>
 
 📊 **This week i spent my time on:**
