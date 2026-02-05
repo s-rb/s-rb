@@ -137,10 +137,14 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=GitHub-Achievements&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/github-profile-trophy" title="🏆 Add dynamically generated GitHub Stat Trophies  on your readme">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=github-profile-trophy&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/github-profile-trophy.surkoff.com" title="github-profile-trophy.surkoff.com">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=github-profile-trophy.surkoff.com&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/github-readme-activity-graph" title="A dynamically generated activity graph to show your GitHub activities of last 31 days.">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=github-readme-activity-graph&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/github-readme-stats" title=":zap: Dynamically generated stats for your github readmes">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=github-readme-stats&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="center" href="https://github.com/s-rb/github-readme-streak-stats" title="🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README">
+<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=github-readme-streak-stats&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/gogs" title="Gogs is a painless self-hosted Git service">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=gogs&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/goose" title="an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM">
@@ -237,8 +241,6 @@
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=llama.cpp&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/logistic-webix" title="Demo project for Spring Boot + Webix">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=logistic-webix&theme=react&border_color=61dafb&border_radius=10"></a>
-<a align="center" href="https://github.com/s-rb/luci-app-xray" title="(Almost) full feature Xray client for OpenWrt">
-<img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=luci-app-xray&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/markdown-cv" title="a simple template to write your CV in a readable markdown file and use CSS to publish/print it.">
 <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=markdown-cv&theme=react&border_color=61dafb&border_radius=10"></a>
 <a align="center" href="https://github.com/s-rb/mastodon" title="Your self-hosted, globally interconnected microblogging community">
