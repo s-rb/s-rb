@@ -32,7 +32,7 @@
 
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy-surkoff-com.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
 </p>
 <br>
 
