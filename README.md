@@ -202,10 +202,10 @@
 <p align=center>
 <div align=center>
 <div>
-<a href="https://github.com/s-rb"><img align="center" height="150em" src="https://github-readme-streak-stats-surkoff.herokuapp.com/?user=s-rb&theme=react&hide_border=true" alt="GitHub Streak"/></a>
+<a href="https://github.com/s-rb"><img align="center" height="150em" src="https://github-readme-streak-stats-surkoff.vercel.app/?user=s-rb&theme=react&hide_border=true" alt="GitHub Streak"/></a>
 </div>
 <div>
-<a href="https://surkoff.com"><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rb&size_weight=0.9&hide=css,c%23,hlsl&layout=compact&langs_count=6&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages"/></a>
+<a href="https://surkoff.com"><img align="center" height="150em" src="https://github-readme-stats-surkoff.vercel.app/api/top-langs/?username=s-rb&size_weight=0.9&hide=css,c%23,hlsl&layout=compact&langs_count=6&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages"/></a>
 </div>
 </div>
 </p>
