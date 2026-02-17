@@ -30,12 +30,7 @@
     💬 Ask me about <b>Java & Spring</b>
 </p>
 
-
-<p align="center">
-    <img src="https://github-profile-trophy-surkoff-com.vercel.app/?username=s-rb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=20&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
-</p>
 <br>
-
 
 <h2 align="center">🛠 Tech Stack</h2>
 <h3 align="center">Primary: </h3>
@@ -181,15 +176,15 @@
 </div>
 <div align="center">
     <a align="center" href="https://github.com/s-rb/keycloak-dockerized-ssl-nginx" title="Keycloak Docker Nginx SSL">
-    <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=keycloak-dockerized-ssl-nginx&theme=react&border_color=61dafb&border_radius=10"></a>
+    <img align="center" style="margin: 10px" src="https://surkoff-github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=keycloak-dockerized-ssl-nginx&theme=react&border_color=61dafb&border_radius=10"></a>
     <a align="center" href="https://github.com/s-rb/blog-engine" title="Blog engine">
-    <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=blog-engine&theme=react&border_color=61dafb&border_radius=10"></a>
+    <img align="center" style="margin: 10px" src="https://surkoff-github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=blog-engine&theme=react&border_color=61dafb&border_radius=10"></a>
     <a align="center" href="https://github.com/s-rb/portfolio-front" title="Portfolio Web site">
-    <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=portfolio-front&theme=react&border_color=61dafb&border_radius=10"></a>
+    <img align="center" style="margin: 10px" src="https://surkoff-github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=portfolio-front&theme=react&border_color=61dafb&border_radius=10"></a>
     <a align="center" href="https://github.com/s-rb/site" title="Personal website">
-    <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=site&theme=react&border_color=61dafb&border_radius=10"></a>
+    <img align="center" style="margin: 10px" src="https://surkoff-github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=site&theme=react&border_color=61dafb&border_radius=10"></a>
     <a align="center" href="https://github.com/s-rb/s-rb" title="Readme">
-    <img align="center" style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=s-rb&theme=react&border_color=61dafb&border_radius=10"></a>
+    <img align="center" style="margin: 10px" src="https://surkoff-github-readme-stats.vercel.app/api/pin/?username=s-rb&repo=s-rb&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <h3 align="center">
   <a href="https://github.com/s-rb?tab=repositories" title="Show Repositories">🔎 Show all 🔍</a>
@@ -200,12 +195,7 @@
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
-<div align=center>
-<div>
-<a href="https://github.com/s-rb"><img align="center" height="150em" src="https://github-readme-streak-stats-surkoff.vercel.app/?user=s-rb&theme=react&hide_border=true" alt="GitHub Streak"/></a>
-</div>
-<div>
-<a href="https://surkoff.com"><img align="center" height="150em" src="https://github-readme-stats-surkoff.vercel.app/api/top-langs/?username=s-rb&size_weight=0.9&hide=css,c%23,hlsl&layout=compact&langs_count=6&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages"/></a>
+<a href="https://surkoff.com"><img align="center" height="150em" src="https://surkoff-github-readme-stats.vercel.app/api/top-langs/?username=s-rb&size_weight=0.9&hide=css,c%23,hlsl&layout=compact&langs_count=6&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages"/></a>
 </div>
 </div>
 </p>
