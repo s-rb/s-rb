@@ -223,7 +223,7 @@ Gradle          10 mins         █░░░░░░░░░░░░░░░
         <a style="margin-left: 10px;"  target="_blank" href="https://surkoff.com">
             <img src="https://img.icons8.com/?size=50&id=qtCMtMWQphXg&format=png&color=f0f6fc"/>
         </a>
-        <a style="margin-left: 10px;"  target="_blank" href="https://surkoff.su">
+        <a style="margin-left: 10px;"  target="_blank" href="https://ru.surkoff.com">
             <img src="https://img.icons8.com/?size=50&id=EyyLPKJ46kGK&format=png&color=f0f6fc"/>
         </a>
         <a style="margin-left: 10px;"  target="_blank" href="mailto:surkoff.com@gmail.com">

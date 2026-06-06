@@ -1,0 +1,171 @@
+- name: Blog backend application
+  link: https://blog.surkoff.com
+  image: assets/images/projects/BlogFrontEnd.png
+  description: This is a backend application for a blog engine. You can register and confirm
+    your mail by email code, the registration form is protected by a captcha. You can do posts,
+    write comments, and like posts. It uses Spring framework and MySql database.
+    The code is covered with unit tests (Junit). This project was developed during the study
+    at the Skillbox course
+    The main language is Java 11. The application was built with Apache Maven
+    on SpringFramework. MySql as database. JUnit for testing code, Cage for captcha generation,
+    and Jakarta Mail for emails
+  links:
+    - name: Try it!
+      link: https://blog.surkoff.com
+      description: Web application for a blog (UI and backend)
+    - name: Code backend
+      link: https://github.com/s-rb/blog-engine
+
+- name: Ecommerce Full Stack Application
+  link: https://github.com/s-rb/ecommerce-backend
+  image: assets/images/projects/EcommerceShop.png
+  description: Ecommerce Full Stack Springboot/Angular Application, integration with Payment processor via API
+    The backend main language is Java 17 and the app is built using SpringBoot 2.
+    The frontend main language is TypeScript and its built using Angular
+  links:
+    - name: Code backend
+      link: https://github.com/s-rb/ecommerce-backend
+      description: Backend of the Ecommerce Full Stack Application
+    - name: Code frontend
+      link: https://github.com/s-rb/ecommerce-frontend
+      description: Frontend of the Ecommerce Full Stack Application
+
+- name: Japan cafe
+  link: https://japan-cafe.surkoff.com
+  image: assets/images/projects/JapanCafe.png
+  description: React application for the Japan cafe website made for study ReactJS purpose
+    Javascript language, ReactJS library. Html, CSS
+  links:
+    - name: Try it!
+      link: https://japan-cafe.surkoff.com
+    - name: Try on github
+      link: https://s-rb.github.io/japan-cafe/
+    - name: Code
+      link: https://github.com/s-rb/japan-cafe
+
+- name: Quiz
+  link: https://quiz.surkoff.com
+  image: assets/images/projects/Quiz.png
+  description: Quiz is a simple frontend ReactJS application where you can answer some questions. 
+    The application calculates right and wrong answers and after the quiz is finished, it will show you the results.
+    This application acquires questions and answers from the open API of opentdb.com. The application was created for educational purposes to study ReactJS
+    The main language of the application is JavaScript. It uses the ReactJS library. The project was bootstrapped with create-react-app
+  links:
+    - name: Try it!
+      link: https://quiz.surkoff.com
+    - name: Code
+      link: https://github.com/s-rb/react-quiz-app
+
+- name: Skidka4uBot
+  link: https://github.com/s-rb/PriceWatcherBot
+  image: assets/images/projects/Bot.png
+  description: 'Skidka4uBot is a web service and a telegram bot as its client that allows the user to track real sales of popular online shops. Also, it allows the user to subscribe to
+    desired sale percentage, item category, or item keywords. It uses parsers to acquire information about items: titles, categories, prices, etc. The service checks from time to
+    time if a price has been reduced enough and if it did, the bot will send you a notification.
+    The main language is Java 17. The app is built using SpringBoot 2. Parsing was implemented by using Selenium and Firefox browser.
+    Main services are developed as separate microservices. They are connected through RabbitMQ and packaged in docker containers. As a database it uses Postgresql'
+  links:
+    - name: Code
+      link: https://github.com/s-rb/PriceWatcherBot
+
+- name: ChatGpt telegram bot
+  link: https://github.com/s-rb/chatgpt-bot
+  image: assets/images/projects/ChatGptTgBot.png
+  description: A Telegram bot for sending requests to ChatGpt from OpenAI. Unlimited access for the administrator. Ability for the administrator to approve access for third-party users.
+    Storing user information in a file and in RAM. Written partly with ChatGpt to test the capabilities of modern OpenAI neural networks
+    Application written in Java 17. Building and dependency control with Apache Maven. The telegram bots library org.telegram.telegrambots was used to implement the
+    telegram bot, and com.theokanning.openai-gpt3-java for OpenAI integration. This is a lightweight application with minimal technologies and dependencies
+  links:
+    - name: Code
+      link: https://github.com/s-rb/chatgpt-bot
+
+- name: Skidki4u Frontend
+  link:
+  image: assets/images/projects/PriceWatchFront.png
+  description: React application for price-watching backend application. It is another client for the backend. The first and primary is the telegram bot Skidka4uBot
+    (https://t.me/skidka_4u_bot). This application shows you notifications when the backend has found any sales
+    TypeScript, ReactJS library, Html, Css
+
+- name: Portfolio website
+  link: https://ru.surkoff.com
+  image: assets/images/projects/Portfolio.png
+  description: This is my portfolio website. It is built with Javascript and ReactJs library
+  links:
+    - name: Try it!
+      link: https://ru.surkoff.com
+    - name: Code
+      link: https://github.com/s-rb/portfolio-front
+
+- name: Costs log
+  link: https://costs-log.surkoff.com/
+  image: assets/images/projects/CostsLog.png
+  description: React application for managing costs. You can add costs with dates and the application calculates results and shows you the diagrams
+    Javascript language, ReactJS library, Html, Css
+  links:
+    - name: Try it!
+      link: https://costs-log.surkoff.com/
+    - name: Code
+      link: https://github.com/s-rb/react-costs-log-app
+
+- name: Interactive poster
+  link: https://github.com/s-rb/interactive-java-poster
+  image: assets/images/projects/InteractivePoster.png
+  description: This is an interactive poster for Valentine's Day. It's built with Java and LibGdx library. The application is created on GeekBrains intensive
+    The app is built with Java 11 language and LibGdx library
+  links:
+    - name: Code
+      link: https://github.com/s-rb/interactive-java-poster
+
+- name: GUI HashGenerator desktop app
+  link: https://github.com/s-rb/gui-hashcode-generator
+  image: assets/images/projects/HashGenerator.png
+  description: This is a desktop application for the generation of hash codes for the subdirectories depending on files, contained in those directories.
+    Algorithm
+    1) Enter the root directory for which sub-dirs it will calculate the hashcode.
+    2) When you click Generate button, the application finds subdirectories and generates hash codes for
+    each directory. It works in multiple threads.
+    3) After it calculates the results, click the Export button.
+    The application writes results to a CSV file.
+    4) You can click the Open button to open the saved file with results
+    The main language is Java 11 (Concurrent, Stream API, IO, NIO). It uses JavaFX for the GUI
+  links:
+    - name: Code
+      link: https://github.com/s-rb/gui-hashcode-generator
+
+- name: Catch the drop
+  link: https://github.com/s-rb/simple-java-game-catch-the-drop
+  image: assets/images/projects/JavaGameCatch.png
+  description: Java game Catch the drop. The application is built with Java and Swing. It's created on GeekBrains intensive
+    The app's main language is Java 11
+  links:
+    - name: Code
+      link: https://github.com/s-rb/simple-java-game-catch-the-drop
+
+- name: Task list
+  link: http://tasklist.surkoff.com/
+  image: assets/images/projects/Tasklist_screen.png
+  description: Very basic React application to manage tasks. You can add tasks, they appear in the task list. You can remove them from the task list
+    Javascript language, ReactJS library, Html, Css
+  links:
+    - name: Try it!
+      link: http://tasklist.surkoff.com/
+    - name: Code
+      link: https://github.com/s-rb/styling-components-app
+
+- name: Netty chat
+  link: https://github.com/s-rb/SimpleNettyChat
+  image: assets/images/projects/NettyChat.png
+  description: Simple Netty Chat client and server app. You can run server and a lot of clients. They send messages to the server and server sends messages to all connected clients
+    Java 17 FX, Netty framework, Log4j
+  links:
+    - name: Try it!
+      link: https://github.com/s-rb/SimpleNettyChat
+
+- name: Android game like Agar.io
+  link: https://github.com/s-rb/simple-android-java-game
+  image: assets/images/projects/AndroidAgar.png
+  description: Simple Android game like agar.io. It uses java and gradle
+    Main language is Java 11. It is built with gradle
+  links:
+    - name: Code
+      link: https://github.com/s-rb/simple-android-java-game

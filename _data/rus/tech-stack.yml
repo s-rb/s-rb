@@ -1,0 +1,87 @@
+primary:
+  - title: Java
+    icon: java.svg
+  - title: Spring
+    icon: spring.svg
+  - title: SpringBoot
+    icon: springboot.svg
+  - title: Databases
+    icon: sql.svg
+  - title: Postgresql
+    icon: postgres.svg
+  - title: Kotlin
+    icon: kotlin.svg
+  - title: MongoDB
+    icon: mongo.svg
+  - title: Mysql
+    icon: mysql.svg
+  - title: Gradle
+    icon: gradle.svg
+  - title: Maven
+    icon: maven.svg
+  - title: Apache Kafka
+    icon: kafka.svg
+  - title: Intellij Idea
+    icon: idea.svg
+  - title: Git
+    icon: git.svg
+  - title: JUnit
+    icon: junit.svg
+  - title: Docker
+    icon: docker.svg
+  - title: REST API
+    icon: rest-api.svg
+  - title: Postman
+    icon: postman.svg
+  - title: Talend
+    icon: talend.svg
+  - title: Camunda BPM
+    icon: camunda.svg
+
+secondary:
+  - title: Confluence
+    icon: confluence.svg
+  - title: Teamcity
+    icon: teamcity.svg
+  - title: Kibana
+    icon: kibana.svg
+  - title: Jira
+    icon: jira.svg
+  - title: Bitbucket
+    icon: bitbucket.svg
+  - title: Elastic
+    icon: elastic.svg
+  - title: Slack
+    icon: slack.svg
+  - title: Jenkins
+    icon: jenkins.svg
+  - title: OracleDB
+    icon: oracle.svg
+
+hobby:
+  - title: RabbitMQ
+    icon: rabbit.svg
+  - title: Telegram API
+    icon: telegram.svg
+  - title: Bots
+    icon: bots.svg
+  - title: Ubuntu
+    icon: ubuntu.svg
+  - title: Javascript
+    icon: js.svg
+  - title: Typescript
+    icon: ts.svg
+  - title: ReactJS
+    icon: react.svg
+  - title: Webstorm
+    icon: webstorm.svg
+  - title: NodeJS
+    icon: nodejs.svg
+  - title: HTML
+    icon: html.svg
+  - title: CSS
+    icon: css.svg
+  - title: C#
+    icon: csharp.svg
+  - title: Unity
+    icon: unity.svg
