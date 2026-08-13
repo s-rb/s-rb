@@ -87,12 +87,12 @@
     TypeScript, ReactJS library, Html, Css
 
 - name: Portfolio website
-  link: https://ru.surkoff.com
+  link: https://surkoff.com
   image: assets/images/projects/Portfolio.png
   description: This is my portfolio website. It is built with Javascript and ReactJs library
   links:
     - name: Try it!
-      link: https://ru.surkoff.com
+      link: https://surkoff.com
     - name: Code
       link: https://github.com/s-rb/portfolio-front
 
